@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hola",
-    "description": "👋 Hola soy Juan Escobar desarrollador fullstack desde hace 4 años, he trabajado con proyectos en los frameworks angulares de Laravel y estoy aprendiendo react.js he estado trabajando desarrollando chatbots por la herramienta IBM watson Assistant",
+    "description": "👋 Hola soy Juan Escobar desarrollador fullstack desde hace 12 años, he trabajado con proyectos en los frameworks angulares de Laravel y estoy aprendiendo react.js he estado trabajando desarrollando chatbots por la herramienta IBM watson Assistant",
     "section_name": {
       "about": "Acerca de mi",
       "projects": "Proyectos",
@@ -11,7 +11,7 @@
   },
   "projects": [
     {
-      "title": "Megalabs.app",
+      "title": "cornershop.app",
       "startDate": "2019",
       "description": "he trabajado en esta aplicacion todo el tiempo yha conllevaod una evolucion constante desde una paghina simple en php a una migracion a una pagina web y una aplicacion movil llevando procesos internos de la compañia a los largo de los ultimos 4 años.",
       "images": [
@@ -36,7 +36,7 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
+      "company": "uber",
       "title": "Front-End Developer",
       "years": "10.2019 - obecnie",
       "mainTech": [
